@@ -20,7 +20,7 @@ Screenshots of the website application in operation are attached in the folder '
 ### Execution instructions
 (Appropriate versions of Ruby & Rails are needed)  
 1) In the main 'airport-final' folder, open the terminal and type the following:  
-	'''console
+	'''
 	gem install bundler  
 	bundle install  
 	rails s 
