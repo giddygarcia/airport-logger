@@ -1,63 +1,81 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-.home {
-    background-image: url("home_bg.jpg");
-    background-color: transparent; 
-    height: 750px; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    background-size: cover; 
-}
-
-th {
-    text-align: center;
-}
-
-.header-wrapper {
-    background: rgba(0,0,0,.8);
-    padding-top: 10px;
-    padding-bottom: 0px;
-}
-
-.logo {
-    height: 50px;
-    text-align: center;
-    display: block;
-	margin: 20px auto;
-}
 
 body {
     background: transparent; 
 }
 
-.top {
-	margin-left: 300px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+.home {
+    height: 100vh; 
+    background-image: url("home_bg.jpg");
+    background-color: transparent; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
 }
+
+.navbar-wrapper {
+    background: #153c4d;
+    padding: 5px 0;
+    width: 100%;
+    opacity: 0.95;
+    margin-bottom: 50px;
+}
+
+.logo {
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+	margin-left: 0px;
+    margin-right: 40px;
+}
+
 .navbar {
-    margin-bottom: 0px;
+    margin: 0 auto;
+    width: 60%;
 }
+
+.top ul {
+    list-style-type: none;
+    display:inline-block;
+    text-align: center;
+}
+
 .top a {
 	transition: 0.5s;
-	margin-right:50px;
+	margin-right: 40px;
 	font-size:20px;
-	color:maroon;
-    margin-bottom: 0px;
-        padding-bottom: 0px;
+	color: #e3e1cc;
+}
 
+.top a.active {
+    color: blue;
 }
 
 .top a:hover {
 	display:inline-block;
-	color:white;
+	color: #dd1a33;
 	transform: scale(1.1,1.1);
 	text-decoration:none;
+    cursor: pointer;
 }
 
-a:active {
-    color:black;
+h1 {
+    text-align: center;
+    font-size: 40pt;
+    color: #e3e1cc;
+    margin: 150px auto 20px auto;
+    padding: 10px 0px;
+    font-family: 'Open Sans', sans-serif;
+    width: 50%;
+    background-color: #153c4d;
+    border-radius: 25px;
+    opacity: 0.9;
+}
+
+th {
+    text-align: center;
 }
 
 .destination{
@@ -74,7 +92,9 @@ a:active {
 
 .box {
 	position: absolute;
-	margin-left: 490px;
+    position: center;
+	margin-left: auto;
+    margin-right: auto;
     width: 500px;
     padding: 40px;
     background: rgba(0,0,0,.8);

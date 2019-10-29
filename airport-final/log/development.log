@@ -1772,3 +1772,1574 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 641ms (Views: 637.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/home" for ::1 at 2019-10-29 18:53:31 +0800
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 7175ms (Views: 7168.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:07 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 267ms (Views: 266.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:20 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 214ms (Views: 213.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:36 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 244ms (Views: 243.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:43 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 233ms (Views: 232.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:44 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Started GET "/home" for ::1 at 2019-10-29 18:55:44 +0800
+Started GET "/home" for ::1 at 2019-10-29 18:55:44 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 413ms (Views: 412.8ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 282ms (Views: 281.3ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 242ms (Views: 241.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:55:50 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 243ms (Views: 241.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:56:17 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4600ms (Views: 4598.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:56:46 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5265ms (Views: 5263.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:57:08 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 4669ms (Views: 4667.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:57:21 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4605ms (Views: 4602.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:57:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4707ms (Views: 4704.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:58:14 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 243ms (Views: 242.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:58:29 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4418ms (Views: 4416.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:58:49 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4572ms (Views: 4571.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 18:59:08 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4880ms (Views: 4879.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:05:49 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4714ms (Views: 4713.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:09:12 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:32: syntax error, unexpected '>'
+...@output_buffer.safe_append='"%> </li>
+...                              ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:33: unknown regexp option - l
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:34: syntax error, unexpected '<'
+        <li class="nav-link '.freeze;@...
+        ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:51: unterminated string meets end of file
+          end
+              ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:51: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/layouts/application.html.erb:32: syntax error, unexpected '>'
+app/views/layouts/application.html.erb:33: unknown regexp option - l
+app/views/layouts/application.html.erb:34: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:51: unterminated string meets end of file
+app/views/layouts/application.html.erb:51: syntax error, unexpected end-of-input, expecting ')'
+app/controllers/pages_controller.rb:4:in `home'
+Started GET "/home" for ::1 at 2019-10-29 19:10:50 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:31: syntax error, unexpected '>'
+...output_buffer.safe_append='" %> </li>
+...                              ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:32: unknown regexp option - l
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:33: syntax error, unexpected '<'
+        <li class="nav-link '.freeze;@...
+        ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <li class="nav-link '.freeze;@output_buffer...
+                   ^~~
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:34: syntax error, unexpected tSTRING_BEG, expecting do or '{' or '('
+        <li class="nav-link '.freeze;@output_buffer.append...
+                            ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+...@output_buffer.append=( 'active' if current_page?(members_pa...
+...                         ^~~~~~
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:34: syntax error, unexpected tCONSTANT, expecting ')'
+...er.append=( link_to 'Developers', members_path );@output_buf...
+...                     ^~~~~~~~~~
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:35: unknown regexp option - l
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:36: syntax error, unexpected '<'
+    </div>
+    ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:37: unknown regexp options - dv
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:38: syntax error, unexpected '<'
+    <!-- /.navbar-collapse -->
+    ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:39: unknown regexp options - dv
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:39: syntax error, unexpected '<'
+    </div><!-- /.container-fluid -->
+          ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:40: unknown regexp options - av
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:41: syntax error, unexpected '<'
+</div>
+^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:45: unknown regexp options - bdy
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:46: syntax error, unexpected '<'
+</html>
+^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:51: unterminated regexp meets end of file
+          end
+              ^
+C:/Users/User/Documents/My Git/airport-logger/airport-final/app/views/layouts/application.html.erb:51: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/layouts/application.html.erb:31: syntax error, unexpected '>'
+app/views/layouts/application.html.erb:32: unknown regexp option - l
+app/views/layouts/application.html.erb:33: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/layouts/application.html.erb:34: syntax error, unexpected tSTRING_BEG, expecting do or '{' or '('
+app/views/layouts/application.html.erb:34: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/layouts/application.html.erb:34: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/layouts/application.html.erb:35: unknown regexp option - l
+app/views/layouts/application.html.erb:36: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:37: unknown regexp options - dv
+app/views/layouts/application.html.erb:38: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:39: unknown regexp options - dv
+app/views/layouts/application.html.erb:39: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:40: unknown regexp options - av
+app/views/layouts/application.html.erb:41: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:45: unknown regexp options - bdy
+app/views/layouts/application.html.erb:46: syntax error, unexpected '<'
+app/views/layouts/application.html.erb:51: unterminated regexp meets end of file
+app/views/layouts/application.html.erb:51: syntax error, unexpected end-of-input, expecting ')'
+app/controllers/pages_controller.rb:4:in `home'
+Started GET "/home" for ::1 at 2019-10-29 19:13:24 +0800
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 1154ms (Views: 1149.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:13:52 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4613ms (Views: 4611.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:14:23 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 224ms (Views: 222.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:14:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4587ms (Views: 4586.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:14:59 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 4953ms (Views: 4951.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:15:13 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 4774ms (Views: 4773.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 19:15:20 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.6ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (42.9ms)
+Completed 200 OK in 272ms (Views: 250.2ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:15:22 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 297ms (Views: 296.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:15:23 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (50.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (58.8ms)
+Completed 200 OK in 336ms (Views: 335.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 19:15:25 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 186ms (Views: 184.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:15:39 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 156ms (Views: 154.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:15:52 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 4396ms (Views: 4394.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:16:26 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.8ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 4561ms (Views: 4560.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:16:49 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.2ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 4518ms (Views: 4517.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:17:04 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 8880ms (Views: 8879.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:22:21 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 4811ms (Views: 4807.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:24:20 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 4612ms (Views: 4610.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:24:48 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.8ms)
+  Rendered airplanes/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 4445ms (Views: 4444.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:27:38 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 4529ms (Views: 4527.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:29:37 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 269ms (Views: 265.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:29:59 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 284ms (Views: 283.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/logo.png" for ::1 at 2019-10-29 19:30:00 +0800
+Processing by AirplanesController#show as PNG
+  Parameters: {"id"=>"logo"}
+  [1m[36mAirplane Load (0.8ms)[0m  [1m[34mSELECT  "airplanes".* FROM "airplanes" WHERE "airplanes"."id" = ? LIMIT ?[0m  [["id", 0], ["LIMIT", 1]]
+  ↳ app/controllers/airplanes_controller.rb:25
+Completed 404 Not Found in 47ms (ActiveRecord: 0.8ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Airplane with 'id'=logo):
+  
+app/controllers/airplanes_controller.rb:25:in `show'
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:31:40 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.8ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 263ms (Views: 257.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/image_url('logo.png')" for ::1 at 2019-10-29 19:31:40 +0800
+Processing by AirplanesController#show as 
+  Parameters: {"id"=>"image_url('logo"}
+  [1m[36mAirplane Load (0.7ms)[0m  [1m[34mSELECT  "airplanes".* FROM "airplanes" WHERE "airplanes"."id" = ? LIMIT ?[0m  [["id", 0], ["LIMIT", 1]]
+  ↳ app/controllers/airplanes_controller.rb:25
+Completed 404 Not Found in 9ms (ActiveRecord: 0.7ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Airplane with 'id'=image_url('logo):
+  
+app/controllers/airplanes_controller.rb:25:in `show'
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:32:52 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 267ms (Views: 266.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:33:14 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 206ms (Views: 205.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:34:37 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (9.2ms)
+  Rendered airplanes/new.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 292ms (Views: 290.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:35:10 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (9.1ms)
+  Rendered airplanes/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 5042ms (Views: 5040.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:35:29 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 4887ms (Views: 4886.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:37:05 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 281ms (Views: 279.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:37:19 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 259ms (Views: 255.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:37:33 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.6ms)
+  Rendered airplanes/new.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 4848ms (Views: 4846.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:37:54 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 4929ms (Views: 4926.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:39:01 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (6.6ms)
+  Rendered airplanes/new.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 5058ms (Views: 5056.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:39:14 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 5227ms (Views: 5226.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:40:48 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 307ms (Views: 305.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:41:07 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (13.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (29.9ms)
+Completed 200 OK in 5329ms (Views: 5327.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:41:44 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 307ms (Views: 305.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:43:00 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.1ms)
+  Rendered airplanes/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 311ms (Views: 309.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:43:23 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.6ms)
+  Rendered airplanes/new.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 253ms (Views: 251.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:43:31 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 4977ms (Views: 4976.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:43:50 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.5ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 221ms (Views: 218.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:44:00 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 5007ms (Views: 5005.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:44:27 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 5120ms (Views: 5117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:44:47 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (11.2ms)
+  Rendered airplanes/new.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 5050ms (Views: 5046.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:45:06 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 5104ms (Views: 5103.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:45:56 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (9.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (28.8ms)
+Completed 200 OK in 5198ms (Views: 5196.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:46:12 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 5211ms (Views: 5209.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:46:35 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (4.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 4971ms (Views: 4969.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:47:47 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (10.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 4923ms (Views: 4921.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:48:36 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (7.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 4862ms (Views: 4860.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:48:52 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.1ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 5085ms (Views: 5084.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:49:38 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (7.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (16.8ms)
+Completed 200 OK in 5717ms (Views: 5716.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:49:53 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.8ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 6625ms (Views: 6623.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:50:09 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 5372ms (Views: 5371.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:50:45 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (7.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 192ms (Views: 190.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:50:57 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 244ms (Views: 242.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:51:10 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (7.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 261ms (Views: 257.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:23 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 4824ms (Views: 4822.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:42 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.0ms)
+  Rendered airplanes/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 269ms (Views: 268.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:46 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 189ms (Views: 187.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:49 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.1ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 168ms (Views: 167.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:50 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (6.6ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 168ms (Views: 167.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/members" for ::1 at 2019-10-29 19:52:52 +0800
+Processing by PagesController#members as HTML
+  Rendering pages/members.html.erb within layouts/application
+  Rendered pages/members.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 138ms (Views: 137.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:54 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 166ms (Views: 164.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 19:52:56 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 142ms (Views: 140.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 19:52:59 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.1ms)
+  Rendered airplanes/new.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 183ms (Views: 181.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/airplanes" for ::1 at 2019-10-29 19:53:01 +0800
+Processing by AirplanesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"B98ubDy99yrPqTHaa+bOocKR//bPzv1K5Stxt97duY3vZBZMQCM1h7LgBSKagdKLgGoNy5b0Y7P2GJHYuuOWAA==", "airplane"=>{"code"=>"", "seat_capacity"=>"", "time_in"=>"", "time_out"=>"", "destination"=>"Philippines"}, "commit"=>"Create Airport log"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/airplanes_controller.rb:16
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/airplanes_controller.rb:16
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.2ms)
+  Rendered airplanes/new.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 188ms (Views: 177.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 19:53:46 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 259ms (Views: 256.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 19:54:12 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 235ms (Views: 233.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:54:29 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Started GET "/home" for ::1 at 2019-10-29 19:54:30 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 9658ms (Views: 9656.7ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 8867ms (Views: 8866.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:54:39 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 217ms (Views: 216.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:55:47 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4459ms (Views: 4457.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:56:00 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5092ms (Views: 5091.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:56:12 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 263ms (Views: 259.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:56:23 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 4393ms (Views: 4389.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:56:59 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 4364ms (Views: 4362.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:57:32 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4534ms (Views: 4533.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:57:48 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4270ms (Views: 4268.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:58:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4396ms (Views: 4391.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:58:47 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 4624ms (Views: 4622.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 19:59:04 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4558ms (Views: 4555.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:01:27 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4324ms (Views: 4323.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:02:43 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 153ms (Views: 150.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:04:07 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 4416ms (Views: 4414.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:04:28 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4283ms (Views: 4281.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:05:08 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4941ms (Views: 4939.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:05:21 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5200ms (Views: 5198.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:05:55 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4610ms (Views: 4609.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:06:35 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4599ms (Views: 4597.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:06:55 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4510ms (Views: 4509.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:07:23 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4578ms (Views: 4577.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:07:42 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 185ms (Views: 184.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:07:53 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.5ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 4387ms (Views: 4385.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:08:22 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.9ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 4317ms (Views: 4315.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:08:36 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (1.7ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 4450ms (Views: 4446.8ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:08:44 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 143ms (Views: 142.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:09:01 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4594ms (Views: 4592.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:09:10 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 146ms (Views: 145.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:09:16 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 4443ms (Views: 4441.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:09:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 204ms (Views: 200.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:09:52 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4328ms (Views: 4327.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:10:24 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6261ms (Views: 6260.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:10:37 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.5ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 190ms (Views: 188.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 20:10:43 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (3.3ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 191ms (Views: 189.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/members" for ::1 at 2019-10-29 20:10:45 +0800
+Processing by PagesController#members as HTML
+  Rendering pages/members.html.erb within layouts/application
+  Rendered pages/members.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 153ms (Views: 152.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:10:51 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 168ms (Views: 166.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:10:54 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 165ms (Views: 163.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 20:10:56 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (5.4ms)
+  Rendered airplanes/new.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 196ms (Views: 195.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/members" for ::1 at 2019-10-29 20:10:57 +0800
+Processing by PagesController#members as HTML
+  Rendering pages/members.html.erb within layouts/application
+  Rendered pages/members.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 167ms (Views: 166.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:11:00 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 186ms (Views: 185.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:11:04 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 193ms (Views: 191.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:11:47 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.8ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 7027ms (Views: 7023.2ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:12:12 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 4365ms (Views: 4364.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:12:33 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.9ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 4518ms (Views: 4516.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:12:53 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 166ms (Views: 165.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:13:16 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 4480ms (Views: 4478.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:13:41 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 4443ms (Views: 4442.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:14:07 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5087ms (Views: 5086.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:14:23 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4420ms (Views: 4418.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:14:36 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4624ms (Views: 4623.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:14:49 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 4592ms (Views: 4588.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:15:02 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4531ms (Views: 4530.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:15:19 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 4588ms (Views: 4587.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:15:34 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 5958ms (Views: 5957.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:15:55 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4992ms (Views: 4991.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:16:12 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4766ms (Views: 4764.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:16:24 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 163ms (Views: 162.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:16:31 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 181ms (Views: 179.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:16:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 172ms (Views: 170.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:16:36 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 178ms (Views: 177.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:16:49 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 4452ms (Views: 4451.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:17:01 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.5ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 4611ms (Views: 4609.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:08 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 288ms (Views: 287.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:17:10 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 244ms (Views: 243.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:12 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 205ms (Views: 204.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:17:13 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.7ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 201ms (Views: 199.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:14 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 265ms (Views: 264.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 20:17:15 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.7ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 170ms (Views: 169.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:17 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 192ms (Views: 188.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/members" for ::1 at 2019-10-29 20:17:18 +0800
+Processing by PagesController#members as HTML
+  Rendering pages/members.html.erb within layouts/application
+  Rendered pages/members.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 157ms (Views: 156.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:19 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 224ms (Views: 223.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:17:36 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 168ms (Views: 166.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:51 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 194ms (Views: 193.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:17:54 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 193ms (Views: 191.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:17:55 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 246ms (Views: 245.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:18:02 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 4613ms (Views: 4611.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:18:13 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 4506ms (Views: 4504.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:18:28 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5049ms (Views: 5048.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:18:36 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4556ms (Views: 4555.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:18:54 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4399ms (Views: 4398.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:19:04 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4576ms (Views: 4575.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:19:21 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4393ms (Views: 4391.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:19:49 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4552ms (Views: 4551.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:19:56 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.4ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 198ms (Views: 196.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:20:01 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.8ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 208ms (Views: 206.2ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:20:07 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4834ms (Views: 4831.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:20:13 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 165ms (Views: 164.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:20:25 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 151ms (Views: 150.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/airplanes/new" for ::1 at 2019-10-29 20:20:35 +0800
+Processing by AirplanesController#new as HTML
+  Rendering airplanes/new.html.erb within layouts/application
+  Rendered airplanes/_form.html.erb (2.9ms)
+  Rendered airplanes/new.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 176ms (Views: 175.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/members" for ::1 at 2019-10-29 20:20:37 +0800
+Processing by PagesController#members as HTML
+  Rendering pages/members.html.erb within layouts/application
+  Rendered pages/members.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 139ms (Views: 138.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:20:39 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 162ms (Views: 161.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:20:53 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 5650ms (Views: 5649.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:21:04 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.7ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 367ms (Views: 365.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:11 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4789ms (Views: 4786.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:16 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 170ms (Views: 169.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:22 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4375ms (Views: 4374.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:33 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 4476ms (Views: 4470.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:46 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4934ms (Views: 4933.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/airplanes" for ::1 at 2019-10-29 20:21:54 +0800
+Processing by AirplanesController#index as HTML
+  Rendering airplanes/index.html.erb within layouts/application
+  [1m[36mAirplane Load (0.3ms)[0m  [1m[34mSELECT "airplanes".* FROM "airplanes"[0m
+  ↳ app/views/airplanes/index.html.erb:36
+  Rendered airplanes/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 208ms (Views: 206.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home" for ::1 at 2019-10-29 20:21:59 +0800
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 184ms (Views: 183.6ms | ActiveRecord: 0.0ms)
+
+
